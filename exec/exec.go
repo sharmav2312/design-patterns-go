@@ -1,4 +1,4 @@
-package util
+package exec
 
 import "design-patterns/patterns"
 

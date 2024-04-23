@@ -1,8 +1,8 @@
 package main
 
-import "design-patterns/util"
+import "design-patterns/exec"
 
 func main() {
 	// Strategy pattern
-	util.StrategyPattern()
+	exec.StrategyPattern()
 }
